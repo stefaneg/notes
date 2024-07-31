@@ -1,0 +1,16 @@
+Tools
+- Gitlab
+- Terraform (with S3 and DynamoDb )
+- Vault
+- Jira
+- Confluence
+- Prometheus
+- Pager Duty
+- Costly ?
+- Carpenter
+- r5d3  open source
+- K8S
+- Private Link - VPC 
+- Launch darkly ?
+- Coralogix
+- Terragrunt
