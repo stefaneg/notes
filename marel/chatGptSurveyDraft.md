@@ -22,6 +22,8 @@ How automated is our deployment process?
 - Mostly automated
 - Fully automated
 
+... ask about rollout capabilities. Blue green? Canary? Rollback capabilities? Database migrations? Database rollback?
+
 ### Continuous Integration
 
 How often do we integrate code into a shared repository with automated testing?
