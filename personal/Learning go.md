@@ -68,3 +68,9 @@ There is one aspect though that caused me some doubts, especially the first time
 I am guessing that the authors wanted to avoid the [npmjs.com](http://npmjs.com) pattern for some reason.
 
 Use the language to do something productive.
+
+
+# Mux is a nice router. 
+
+The example tests leave a thing or two to be desired. I like to test as much of the "wiring" as well, not only the handlers
+in isolation.
