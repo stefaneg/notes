@@ -7,7 +7,7 @@
   - Er innleiðing DevOps yfirlýst markmið,
   - "Ramma inn" vandamálið út frá markmiðinu.
   - Fá eins mikinn bakgrunn og hægt er.
-- List stakeholders. 
+- List stakeholders. Org chart.
 - Decide language. Assuming english.
 - Explore the option of using a wider survey for some questions.
 - Create a detailed project plan.
@@ -19,14 +19,23 @@
   - Summary A3 form / 2x A4. 
 - What is the intended target audience / circulation
 - Talk with DevOps team members.
-
-https://dora.dev/quickcheck/
+- Product Owner
 
 # Weeks 2-4
 - Develop assessment approach. Based on the 24 capabilities described in "Accelerate".
 - Initial fact finding and capture initial thoughts / ideas
 - Write preliminary report
+- Go to the Gemba of deployment and monitoring if possible for each team.
 
 # Weeks 4-8
 - Dig deeper
 - Write final report
+
+# On and offline resources to use
+
+https://dora.dev/quickcheck/
+https://dora.dev/guides/
+
+Accelerate - the book
+Continuous Delivery
+The DevOps handbook
