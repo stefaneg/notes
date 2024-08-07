@@ -1,4 +1,10 @@
 Open interview by describing the goal of my project.
+### Interview approach reminders
+- Ask for permission to record a) entire meeting or b) summary of what was said.
+- Listen with focus.
+- Avoid thinking about response until interviewee is finished.
+- Mirror what is said "in your head" as well as to interviewee.
+- Check that you understand everything correctly.
 
 ### General discussion about DevOps
 

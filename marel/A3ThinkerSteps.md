@@ -293,7 +293,7 @@ Ask "why" the process failed (or may fail) and what is in the way to achieving y
 
 **Why did the process fail?**
 
-## Favor simple tools
+### Favor simple tools
 
 - What is the simplest problem-analysis tool that you can use?
   - 5 Whys?
@@ -304,27 +304,27 @@ Ask "why" the process failed (or may fail) and what is in the way to achieving y
 
 **What is the simplest tool you can use to investigate cause-effect relationship?**
 
-## Look for distinctions and changes
+### Look for distinctions and changes
 
 - What's distinctive about this object or condition as compared to others?
 - What has changed since the time when the performance was satisfactory?
 
 **What distinction/change could suggest the cause of the discrepancy?**
 
-## Explore all possible contributing factors
+### Explore all possible contributing factors
 - Are all the relevant factors being considered (e.g. human, machine, material, method, environment, measurement, and so on)?
 - What areas would a fishbone diagram prompt you to investigate?
 
 **How would you list and classify all potential causes?**
 
-## Narrow down your suspects
+### Narrow down your suspects
 - Based on your experience and available information, what are the most likely causes?
 - What causes could be set aside?
 - Are you using deduction only?
 
 **What's the like source of the deviation? Can you verify it?**
 
-## Dig deep for root cause
+### Dig deep for root cause
 
 - Why does the problem occur?
 - What causes it?
@@ -333,27 +333,27 @@ Ask "why" the process failed (or may fail) and what is in the way to achieving y
 
 **Did you ask "why" the process failed roughly 5 times ?**
 
-## Test the 5 whys logic with a "therefore test"
+### Test the 5 whys logic with a "therefore test"
 
 - Can you walk the chain of causality in reverse to verify its logic ?
 - If you start from the root cause and add "therefore" at the end of each statement in the cause-effect chain, do you logically reach the original problem?
 
 **Does the "therefore test" highlight logical gaps?**
 
-## Let the facts lead to root cause
+### Let the facts lead to root cause
 
 - Is each step in the cause-effect chain based on evidence rather than assumptions?
 - Can you test and confirm each likely cause before proceeding to the next level in the chain ?
 
 **Do you "know" the cause or do you "think" you know?**
 
-## Test causation vs. correlation
+### Test causation vs. correlation
 - What's the evidence that this cause exists and could lead or contribute to the stated effect?
 - Could the effect have happened without it? Is it necessary and sufficient to produce the effect?
 
 **Is there a true cause-effect relationship, or just a correlation?**
 
-## Verify the root cause
+### Verify the root cause
 - Does the root cause point toward a process that fails or does not exist?
 - Is it actionable?
 - If neutralised, would the problem be solved?
