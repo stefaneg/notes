@@ -23,7 +23,7 @@
     - Aspirational values and capabilities vs intrinsic values and capabilities.
     - How do you see this work done ?
 - Permission to
-  - Discuss Marel details with my coach
+  - Discuss Marel details with my coach.
   - Record meetings on my phone.
 - Initial list of stakeholders.
 
@@ -62,11 +62,3 @@
 - Dig deeper
 - Write final report
 
-# On and offline resources to use
-
-https://dora.dev/quickcheck/
-https://dora.dev/guides/
-
-Accelerate - the book
-Continuous Delivery
-The DevOps handbook
