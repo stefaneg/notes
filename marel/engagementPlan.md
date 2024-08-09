@@ -29,7 +29,7 @@
 
 ## Next steps
 - Viðtal við Önnu Kristínu / Hilmar.
-  - Spyrja vel út í hvatninguna,
+  - Spyrja vel út í hvatninguna. 
   - Hvað hefur verið gert áður,
   - Er innleiðing DevOps yfirlýst markmið,
   - "Ramma inn" vandamálið út frá markmiðinu.

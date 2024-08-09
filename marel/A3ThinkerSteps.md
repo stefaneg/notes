@@ -6,10 +6,11 @@ How is the problem relevant to the organisation as a whole ?
 
 ### Clarify the purpose
 
-- Why are we talking about this?
-- What are we trying to accomplish?
-- What central question needs an answer?
-- How is this problem relevant to the organisation as a whole?
+- Why are we talking about this? Ask Deniz for better clarification.
+- What are we trying to accomplish? 
+  - There is frustration from customers. Team seems to be becoming a bottleneck.
+- What central question needs an answer? Ná út´ur glærum. Burnout. 
+- How is this problem relevant to the organisation as a whole? 
 
 **What is the purpose of this ?**
 
