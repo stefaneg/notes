@@ -362,3 +362,52 @@ Ask "why" the process failed (or may fail) and what is in the way to achieving y
 
 **Does the root cause explain each and every aspect of the deviation?**
 
+## Countermeasures
+The "countermeasures" section captures a minimally viable list of hyptheses of how to effetively eliminate, mimimise or prevent the identified causes/obstacles.
+
+**How do you propose to address the identified cause(s) and achieve the target ? **
+
+### Assemble a brainstorming team
+- Who can (and should) help generating ideas to address the cause(s) and reach the target ? 
+- Does everyone have a copy of the A3 report?
+- Should people think individually or in pairs first and gather later? By when?
+
+**Who will help identify potential countermeasures? How?**
+
+### Elicit ideas, defer judgement
+- What do you propose to eliminiate, reduce, or prevent the cause(s)?
+- What actions will neutralise each statement in the cause analysis?
+- Can you change the conditions that create the cause(s)?
+
+**How many short-term and long-term countermeasures can you propose?**
+
+### Reduce list to a manageable subset
+- What suggestions can you safely exclude?
+- Which ones rank best?
+- If team members had a fixed number of votes each to express their preferences, what subset would emerge?
+
+**How can you reduce the list of countermeasures to a manageable subset ?**
+
+### Evaluate each surviving idea 
+- What's the relative level of effectiveness and feasibility of each countermeasure?
+- What would be the impact of the work of others?
+- Could it create a new problem?
+- What other criteria must or should be met ?
+
+**What are the relative merits of each countermeasure ?**
+
+### Select adequate countermeasures
+- What minimal viable set of countermeasures will prevent or eliminiate the cause(s) ?
+- Can the countermeasure(s) prevent the reoccurrence of the problem ?
+- Are short-term measures required to contain the situation?
+
+**What countermeasures will neutralise the causes?**
+
+### Show the future
+- Once the countermeasres are applied, what would the system look like?
+- Can you illustrate it with a diagram, sketch, graph chart or value-stream map?
+**How can you best illustrate the target condition?**
+
+
+
+
