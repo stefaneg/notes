@@ -1,4 +1,4 @@
-# Marel - "How can we leverage DevOps better?" report outline.
+# A3 Thinker steps.
 
 ## Background
 
